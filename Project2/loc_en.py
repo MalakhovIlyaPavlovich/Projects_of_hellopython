@@ -1,0 +1,7 @@
+TXT_INPUT_X = 'Input the number: '
+TXT_INPUT_INP1_1 = 'Choose what you want to do with the number. (choose the numeral):'
+TXT_INPUT_INP1_2 = '1. Calculate the fibonacci number with a given number.'
+TXT_INPUT_INP1_3 = '2. Convert a number to another number system.'
+TXT_CHECK_1 = 'You need to select a response number (numeral): '
+TXT_CHECK_2 = 'Choose an option from the following: '
+TXT_CHOOSE_OF_SYSTEM = 'Select the base of the number system:'
