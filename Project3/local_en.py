@@ -1,0 +1,5 @@
+RULES_1 = 'You are - '
+RULES_2 = '. To go through the maze you need to get to the '
+RULES_3 = '. You can\'t go through '
+RULES_4 = '. Control - WASD.'
+END = 'Congratulations! You have gone through the maze!'
