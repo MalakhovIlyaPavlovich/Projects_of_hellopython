@@ -39,4 +39,3 @@ s = input(loc.INPUT_TEXT)
 while s != '0':
     print(translate(s, lang_trans))
     s = input(loc.INPUT_TEXT)
-
