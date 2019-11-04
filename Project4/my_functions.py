@@ -12,3 +12,4 @@ def lang_inp():
         else:
             language = input('Choose language from the proposed:\n1. English\n2. Russian\n')
     return language
+
