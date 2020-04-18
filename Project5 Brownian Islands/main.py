@@ -2,6 +2,7 @@ from turtle import penup, pendown, goto, exitonclick, speed
 from random import random
 from math import sqrt
 
+
 def brown(x0, y0, x1, y1, disp, p, n=8, m=200):
     if n == 0:
         penup()
